@@ -1,0 +1,24 @@
+.header
+{
+    background: rgb(242, 246, 242);
+    background-image: url(../images/LOGO-ULEAM-HORIZONTAL.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 200px 250px;
+    height: 12vh;
+}
+
+.Menu
+{
+    width: 220px; 
+    list-style: none;
+    text-align: center; 
+    text-shadow: 2px 2px 4px; 
+    padding:0;
+}
+
+.Menu ul 
+{
+    padding: 10px 0px; 
+    border-width: 6px 6px 0px 6px;
+}

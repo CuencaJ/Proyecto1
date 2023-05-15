@@ -1,15 +1,16 @@
-.Registrarse
-{
+.Home
+{   
     text-align: center;
-    width: 400px;
+    width: 350px;
     padding: 30px;
     margin-right: 30%;
     margin-left: 50%;
     margin-top: 100px;
     border-radius: 4px;
     font-family: "Time New Roman";
-    color: rgb(12, 11, 11);
+    color: rgb(15, 15, 15);
     box-shadow: 7px 13px 37px #000;
+
 }
 
 body
@@ -19,5 +20,3 @@ body
     background-position: 25% 60%;
     background-size: 250px 250px;
 }
-
-
